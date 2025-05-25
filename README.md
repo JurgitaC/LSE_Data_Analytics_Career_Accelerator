@@ -1,4 +1,5 @@
-# ![LSE Logo](https://lse.ac.uk/favicon.ico) Data Analytics Career Accelerator
+# <img src="https://lse.ac.uk/Website-Styles/assets/images/logos/lse-logo.svg" alt="LSE Logo" height="30"/> Data Analytics Career Accelerator
+
 
 This repository contains topic summaries and practical assignments completed as part of the **LSE Data Analytics Career Accelerator** programme.
 
