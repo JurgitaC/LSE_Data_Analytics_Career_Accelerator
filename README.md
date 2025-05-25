@@ -1,4 +1,4 @@
-# <img src="lse_logo.png" alt="LSE Logo" height="30"/> Data Analytics Career Accelerator
+# <img src="lse_logo.png" alt="LSE Logo" height="30"/> Data Analytics Career Accelerator Oct 2024 - Jun 2025
 
 This repository contains topic summaries and practical assignments completed as part of the **LSE Data Analytics Career Accelerator** programme.
 
