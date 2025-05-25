@@ -39,8 +39,8 @@ The program included three structured courses and a hands-on employer project, a
 - Created and presented dashboards in Tableau to effectively communicate findings to stakeholders.  
 - Recognised opportunities to apply data analytics for business improvement and value generation.
 
-### Assessment: 
-Referring to a given 2Market dataset and corresponding business scenario, used SQL and Excel to identify insights through data analysis. Create a dashboard using Tableau to communicate insights alongside critical business metrics to help key stakeholders make data-informed decisions.
+### Assessment
+Using a fictional dataset from 2Market, an international supermarket chain, the goal was to gain deeper insights into customer behaviour to boost sales. I used SQL and Excel to analyse the data and uncover key trends. The insights were then communicated through a Tableau dashboard, highlighting critical business metrics to help stakeholders make informed decisions.
 
 ---
 
